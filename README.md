@@ -120,7 +120,7 @@ This is a prank that will play the rick roll video on the darknet.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Go to pewpewa6qm25uispob4okqx5hjer2yt2kn3xj3ejgslfsywallr7ogad.onion 
+Go to  http://pewpewa6qm25uispob4okqx5hjer2yt2kn3xj3ejgslfsywallr7ogad.onion/ 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
