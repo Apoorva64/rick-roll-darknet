@@ -70,11 +70,9 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -164,7 +162,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Appadoo Apoorva Srinivas - apoorvaappadoo@gmail.com
 
 Project Link: [https://github.com/Apoorva64/rick-roll-darknet](https://github.com/Apoorva64/rick-roll-darknet)
 
@@ -188,7 +186,7 @@ Project Link: [https://github.com/Apoorva64/rick-roll-darknet](https://github.co
 [license-shield]: https://img.shields.io/github/license/Apoorva64/rick-roll-darknet.svg?style=for-the-badge
 [license-url]: https://github.com/Apoorva64/rick-roll-darknet/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://linkedin.com/in/appadoo-apoorva-srinivas-481367207
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
